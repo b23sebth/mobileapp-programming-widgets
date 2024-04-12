@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Assignment_3</string>
-    <string name="text_view_string">Hello World</string>
+    <string name="textView">Hello World</string>
 </resources>
